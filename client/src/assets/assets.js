@@ -71,7 +71,8 @@ export const blog_data = [
         "updatedAt": "2025-04-24T08:26:29.750Z",
         "__v": 0,
         "isPublished": true,
-        "subTitle": "A Simple Step-by-Step Guide to Managing Your Lifestyle"
+        "subTitle": "A Simple Step-by-Step Guide to Managing Your Lifestyle",
+        "author":"Aayush kashyap"
     },
     {
         "_id": "6805ef08d8f584af5da78d39",
@@ -83,7 +84,8 @@ export const blog_data = [
         "updatedAt": "2025-04-24T08:30:47.920Z",
         "__v": 0,
         "isPublished": true,
-        "subTitle": "Creating an effective <strong>startup roadmap"
+        "subTitle": "Creating an effective <strong>startup roadmap",
+        "author":"Tanuj"
     },
     {
         "_id": "6805f2aad8f584af5da78d3b",
@@ -95,7 +97,8 @@ export const blog_data = [
         "updatedAt": "2025-04-24T08:20:36.187Z",
         "__v": 0,
         "isPublished": true,
-        "subTitle": "Learning New Tech to Boost Your Software Career"
+        "subTitle": "Learning New Tech to Boost Your Software Career",
+        "author":"Abhishek"
     },
     {
         "_id": "6805f2e2d8f584af5da78d3d",
@@ -107,7 +110,8 @@ export const blog_data = [
         "updatedAt": "2025-04-24T08:20:36.979Z",
         "__v": 0,
         "isPublished": true,
-        "subTitle": "Tips for Getting the Most Out of Apps and Software"
+        "subTitle": "Tips for Getting the Most Out of Apps and Software",
+        "author":"Govind"
     },
     {
         "_id": "6805f307d8f584af5da78d3f",
@@ -119,7 +123,8 @@ export const blog_data = [
         "updatedAt": "2025-04-24T08:32:42.649Z",
         "__v": 0,
         "isPublished": true,
-        "subTitle": "Enhancing Your Skills and Capturing Memorable Moments"
+        "subTitle": "Enhancing Your Skills and Capturing Memorable Moments",
+        "author":"Piyush"
     },
     {
         "_id": "6805f324d8f584af5da78d41",
@@ -131,7 +136,8 @@ export const blog_data = [
         "updatedAt": "2025-04-24T09:32:08.179Z",
         "__v": 0,
         "isPublished": true,
-        "subTitle": "Maximizing Returns by Minimizing Resources in Your Startup"
+        "subTitle": "Maximizing Returns by Minimizing Resources in Your Startup",
+        "author":"Jigyasa"
     },
     {
         "_id": "68062afc8474108ecb7d7944",
@@ -143,7 +149,8 @@ export const blog_data = [
         "updatedAt": "2025-04-24T09:31:52.102Z",
         "__v": 0,
         "isPublished": true,
-        "subTitle": "What Do They Mean for the Market?"
+        "subTitle": "What Do They Mean for the Market?",
+        "author":"Dimpy"
     },
     {
         "_id": "6809f9f23e075dbeedd23bca",
@@ -155,7 +162,8 @@ export const blog_data = [
         "createdAt": "2025-04-24T08:44:34.937Z",
         "updatedAt": "2025-04-24T09:59:21.299Z",
         "__v": 0,
-        "subTitle": "The New Way of Study: Ditching the Old"
+        "subTitle": "The New Way of Study: Ditching the Old",
+        "author":"Riya"
     },
     {
         "_id": "6810995bb5fd81dd0c923d5b",
@@ -167,7 +175,8 @@ export const blog_data = [
         "createdAt": "2025-04-29T09:18:19.662Z",
         "updatedAt": "2025-04-29T10:13:25.035Z",
         "__v": 0,
-        "subTitle": " Why Tourism Matters More Than You Think"
+        "subTitle": " Why Tourism Matters More Than You Think",
+        "author":"Jyotsana"
     },
     {
         "_id": "6810a6a2ed57ecc68a99abb3",
@@ -179,7 +188,8 @@ export const blog_data = [
         "createdAt": "2025-04-29T10:14:58.575Z",
         "updatedAt": "2025-04-29T10:14:58.575Z",
         "__v": 0,
-        "subTitle": "Navigating the Future Responsibly"
+        "subTitle": "Navigating the Future Responsibly",
+        "author":"Sanil"
     }
 ]
 
