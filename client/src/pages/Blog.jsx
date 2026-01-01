@@ -5,6 +5,7 @@ import { useParams } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import Moment from 'moment';
 import Footer from '../components/Footer';
+import Loader from '../components/Loader';
 
 
 
@@ -93,7 +94,9 @@ const Blog = () => {
 
     <Footer/>
     </div>
-  ):<div>Loading...</div>
+  ):<div>
+    <Loader />
+  </div>
 }
 
 export default Blog
